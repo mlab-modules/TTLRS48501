@@ -8,5 +8,7 @@ images:
 - doc/img/TTLRS48501A_top_big.jpg
 - doc/img/TTLRS48501A_QRcode.png
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: TTLRS48501
