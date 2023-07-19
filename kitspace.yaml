@@ -5,4 +5,7 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/TTLRS48501
-summary: null
+summary: The TTLRS48501A is a module that serves as a converter between TTL (Transistor-Transistor
+  Logic) and RS485 communication standards. This module is designed to be flexible
+  and compatible with various types of converters, such as MAX485, SN75176A, and others.
+  The module also includes the option to connect a terminator using a jumper.

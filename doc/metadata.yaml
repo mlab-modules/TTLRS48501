@@ -1,4 +1,7 @@
-description: null
+description: The TTLRS48501A is a module that serves as a converter between TTL (Transistor-Transistor
+  Logic) and RS485 communication standards. This module is designed to be flexible
+  and compatible with various types of converters, such as MAX485, SN75176A, and others.
+  The module also includes the option to connect a terminator using a jumper.
 github_branch: TTLRS48501A
 github_repo: TTLRS48501
 github_url: https://github.com/mlab-modules/TTLRS48501
@@ -11,4 +14,10 @@ mark: 50
 tags:
 - mlab
 - mlab-module
+- bus-converter
+- rs485
+- ttl
+- mlab-comm
+- mlab-serial
+- uart-rs485
 title: TTLRS48501
