@@ -7,8 +7,8 @@ github_repo: TTLRS48501
 github_url: https://github.com/mlab-modules/TTLRS48501
 homepage: false
 images:
-- doc/img/TTLRS48501A_top_small.jpg
 - doc/img/TTLRS48501A_top_big.jpg
+- doc/img/TTLRS48501A_top_small.jpg
 - doc/img/TTLRS48501A_QRcode.png
 mark: 50
 status: 0
